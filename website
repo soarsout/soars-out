@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ineffective Study Habits</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!--the codes above link this html page to the CSS file name 'style.css'.-->
+</head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="ineffective_study_habits.html">Ineffective Study Habits</a></li>
+  <li><a href="study_quotes.html">Study Quotes</a></li>
+</ul>
+     <section class="hero-image">
+    <h1 class="hero-text">
+      "Failing to plan is planning to fail"
+    </h1>
+  </section>
+<h1>INEFFECTIVE STUDY HABITS AND SOLUTIONS</h1>
+<p>Ineffective study habits is a barrier for many students and adults, it can be whether they have distractions, procrastinations, cramming, or the lack of amount 
+   of sleep they get etc. This website will allow students and adults to figure out what ineffective study habits they have and what solutions will allow them 
+  to fix their ineffective habits and turn them into effective study habits.</p>
+  <!--two column layout start-->
+  <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/plan_image_by_unilodge.jpg" alt="Plan Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Studying without a plan</h1>
+          <p>When studying without a plan there will be a lack of direction which will cause students and adults to find it difficult to cover all their subjects 
+             and work within the limited amount of time they have.A solution for this is to start setting up a routine, timtetable, or schedule, this way your 
+             able to see when you're free to study that way your studies and your extra curricular or family events dont interfere with each other and you will be 
+             able to get more work done during a time with no distractions and you will not need to worry about anything else till the time your study ends.</p>
+      </div>
+      </section>
+        <!--two column layout end-->
+        <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/cramming_image_by_brainscapeacademy.png" alt="Cramming Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Cramming</h1>
+          <p> Many people decide to leave their work til last minute, which can affect them badly, causing them to study everything before the due date.
+              A solution for this is to study some of your work early and then study some more when you have time, this way you wont need to cram every
+              single work together.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+      <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/distractions_image_by_oxfordlearning.jpg" alt="Distractions Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Distractions</h1>
+          <p> It is very common for people to get distracted whenever it comes to studying due to social media, family, and friends, this habit can affect people to
+              delay their studies and become behind in classes. A solution that will help poeple study without becoming distracted is to either place their phone 
+              in a different room where it is nowhere to be seen or you could either study in a quiet area such as the library, that way there are no distractions 
+              and if family is one of the distractions then it is recommended to study at a library where there is silence and no distractions, allowing you to 
+              focus and study everything you need to catch up on or any work.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+      <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/tiredness_image_by_quora.png" alt="Tiredness Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Studying when you're tired</h1>
+          <p>Studing without having enough sleep is inefficient, you will not be able to focus as much and remember notes while studying. Therefore, it is important
+             that you ensure that you have had enough sleep and rest, that way when you have enough energy you will be able to stay productive when studying. 
+             Another important thing to look out for is when you have had enough sleep and you are very energized then you can try studying a bit during that time.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+       <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/multitasking_image_by_elearningindustry.png" alt="Multitasking Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Multitasking</h1>
+          <p>Multitasking is a common thing for many people, they tend to focus on more than one subject during the limited amount of time they have. 
+            A solution for this is to divide your work and pay attention to the subject that you find more difficult and then shift your attention 
+            to other subjects once you have finished and it is also recommended to leave the subject you find the least difficult for last, almost like a treat.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+       <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/help_image_by_yup.png" alt="Help Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Not asking for help when needed</h1>
+          <p>Many people are afraid to ask help from teachers or peers when in need of assistance. Without asking for assistance this will not help 
+            when it comes to studying due to the lack of knowledge you have. It is important that you correct this bad habit as it wont only help 
+            improve your grades but will also allow you to overcome that fear and improve your skills. By starting off small you can ask for help from your friends 
+            and classmates and then once you feel more confident in asking, you can start asking for help from your teachers or tutors. Remember it is a teachers job 
+            to help you.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+       <!--two column layout start-->
+        <section class="two-column">
+      <div class="image">
+            <img src="images/Ineffective_habits/notes_image_by_pinterest.jpg" alt="Notes Image" style="width:250px;height:250px;">
+      </div>
+      <div class="info">
+          <h1>Having notes everywhere</h1>
+          <p>This is a main bad habit that people have, having notes placed everywhere will not be helpful as it will be difficult for you to find notes 
+            for a certain subject as it is piled up with every other subject notes. Additionally, this will cause some people to panick as they may have 
+            only one copy and have not memorised what was on it or some may have to rewrite their notes which causes them to delay their studies. Therefore,
+            it is important to prioritise having a neat work space where it is easy for you to find notes for a specific subject.</p>
+      </div>
+      </section>
+<!--two column layout end-->
+  
+ <meta name="viewport" content="width=device-width, initial-scale=0.1">
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<body>
+
+ <div class="footer">
+  <footer>
+   <h4>Author: Koreti Mitai Phone: 022 842 6152<h4>
+   <h4>Email: <a href="koretim4@gmail.com">koretim4@gmail.com</a></h4>
+   <h4>©2024: All images provided on my website will only be used for educational purposes.</h4>
+    
+</footer>
+</div>
+
+</body>
+</html>
+   
