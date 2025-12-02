@@ -98,7 +98,7 @@ img{
 }
 
 .hero-image{
-  background-image: url("./images/home/studying_image_by_entryeducation.jpg") ;
+  background-image: url(".soars_out_cadetship.jpg") ;
   height: 430px;
   background-position: center;
   background-repeat: no-repeat;
@@ -106,7 +106,7 @@ img{
 }
 
 .hero-text{
-  color: #FFFFFF;
+  color: #000000;
   position: absolute;
   text-align: center;
   top: 180px;
