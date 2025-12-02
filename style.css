@@ -182,7 +182,7 @@ h3, p {
   text-align: justify;
   text-justify: inter-word;
   font-family: Arial, Sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 h1, h2 {
@@ -190,12 +190,12 @@ h1, h2 {
   text-align: center;
   text-justify: inter-word;
   font-family: Arial, Sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 p {
   font-family: Arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   color:black;
 }
 
