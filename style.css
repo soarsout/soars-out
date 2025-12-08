@@ -9,9 +9,9 @@ body {
     position: relative;
     height: 100vh;
     background: ("soars_out_cadetship.jpg") center/cover no-repeat;
-    display: flex;
-    align-items: center;
-    padding-left: 60px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /* Dark overlay over the image */
