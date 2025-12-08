@@ -8,7 +8,7 @@ body {
 .hero {
     position: relative;
     height: 100vh;
-    background: ("soars_out_cadetship.jpg") center/cover no-repeat;
+    background: url("soars_out_cadetship.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     padding-left: 60px;
