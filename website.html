@@ -1,56 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Soars Out</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="style.css" rel="stylesheet" type="text/css" />
-<!--the codes above link this html page to the CSS file name 'style.css'.-->
-</head>
-<body>
-<ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="About_Us.html">About Us</a></li>
-  <li><a href="study_quotes.html">Study Quotes</a></li>
-</ul>
-     <section class="hero-image">
-    <h1 class="hero-text">
-      "Failing to plan is planning to fail"
-    </h1>
-  </section>
-<h1>Soars Out</h1>
-<p>Soars Out is a youth-led social enterprise and charitable initiative based in South Auckland,
-   dedicated to empowering rangatahi to succeed beyond the classroom. We bridge the gap between
-   secondary school and the real world, equipping young people with the skills, confidence,
-   and leadership needed to navigate future opportunities and challenges.</p>
-  <!--two column layout start-->
-  <section class="two-column">
-      <div class="image">
-            <img src="images/Ineffective_habits/plan_image_by_unilodge.jpg" alt="Plan Image" style="width:250px;height:250px;">
-      </div>
-      <div class="info">
-          <h1>Our Vision</h1>
-          <p>Our Vision is for rangatahi in Aotearoa New Zealand to soar beyond school, supported by collective strength,
-             practical skills, and pathways that enable them to define and achieve success on their own terms.</p>
-      </div>
-      </section>
-        <!--two column layout end-->
-        
-  <meta name="viewport" content="width=device-width, initial-scale=0.1">
-<style>
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: black;
-   color: white;
-   text-align: center;
-}
-</style>
-</head>
-<body>
+const btn = document.getElementById("learnMoreBtn");
+const slides = document.getElementById("extraSlides");
 
-
-</body>
-</html>
-   
+btn.addEventListener("click", () => {
+  slides.classList.toggle("open");
+  btn.textContent = slides.classList.contains("open")
+    ? "SHOW LESS"
+    : "LEARN MORE";
+});
