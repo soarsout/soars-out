@@ -133,3 +133,8 @@ body {
   color: #1f2a44;
 }
 
+.core-pillars {
+  border: 5px solid red;
+  min-height: 300px;
+}
+
