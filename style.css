@@ -109,3 +109,17 @@ body {
   margin-bottom: 20px;
   border-radius: 8px;
 }
+.core-pillars {
+  padding: 80px 40px;
+  background: #f7f4ef;
+}
+
+.pillars {
+  display: flex;
+}
+
+.pillar {
+  flex: 1;
+  padding: 30px;
+}
+
