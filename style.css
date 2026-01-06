@@ -109,9 +109,11 @@ body {
   margin-bottom: 20px;
   border-radius: 8px;
 }
+
 .core-pillars {
   padding: 80px 40px;
   background: #f7f4ef;
+  color: #1f2a44;
 }
 
 .pillars {
@@ -122,6 +124,7 @@ body {
   flex: 1;
   padding: 30px;
 }
+
 .back-home {
   display: inline-block;
   margin: 20px 40px;
@@ -129,5 +132,4 @@ body {
   font-weight: 600;
   color: #1f2a44;
 }
-
 
